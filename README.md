@@ -1,3 +1,38 @@
+
+
+Linux Free Radio Network Gateway.
+Welcome to the Free Radio Network Linux Project
+
+LinFRN is a Linux Gateway for the Free Radio Network.
+
+For information on FRN visit Free Radio Network Homepage.
+
+This Gateway is under development and has no guaranteed support, nor can I be held responsible for any damage caused to hardware by using this software.
+
+This Software was based on Frollers ORN Client that was keyboard based and not suitable for a Gateway server.
+Features
+
+    USB COM Keyer.
+    VOX.
+    Web Config.
+    Web Java Radio Interface.
+
+In Development
+
+    DTMF Commands.
+    Radio Programming Using Web Interface.
+    Over and Confirmation Tones.
+    Text To Speech Support.
+    Timed Events.
+    WiFi Config via Web Interface.
+    3G USB Dongle support.
+
+The project was created on Sep 15, 2013.
+
+    License: Apache License 2.0
+
+
+
 The Free Radio Network has been around on the windows platform for some time now.
 
 I wanted to build a Gateway of my own, So in true Tech Style I decided to build a Linux Version.
@@ -19,6 +54,9 @@ Have Fun.
 RASPRN TEAM.
 
 ![Alt text](20130807_135930.jpg?raw=true "Title")
+
 ![Alt text](config3.gif?raw=true "Title")
+
 ![Alt text](radiointerface.jpg?raw=true "Title")
+
 ![Alt text](interface.jpg?raw=true "Title")
